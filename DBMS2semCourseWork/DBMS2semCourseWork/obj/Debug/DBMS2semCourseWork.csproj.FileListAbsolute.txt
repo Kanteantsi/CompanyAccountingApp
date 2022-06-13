@@ -1,0 +1,26 @@
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.exe.config
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.exe
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.pdb
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.Properties.Resources.resources
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csproj.GenerateResource.cache
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.exe
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.pdb
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.AccountantForm.resources
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.AdministratorForm.resources
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.RegistrationAndAuthentificationForm.resources
+C:\Users\hzcho\source\repos\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.Test.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.exe.config
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.exe
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\bin\Debug\DBMS2semCourseWork.pdb
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csprojAssemblyReference.cache
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.AccountantForm.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.AdministratorForm.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.RegistrationAndAuthentificationForm.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.Properties.Resources.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.Test.resources
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csproj.GenerateResource.cache
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.csproj.CoreCompileInputs.cache
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.exe
+E:\СУБД\Моя курсовая\DBMS2semCourseWork\DBMS2semCourseWork\obj\Debug\DBMS2semCourseWork.pdb
